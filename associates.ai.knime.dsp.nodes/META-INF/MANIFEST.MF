@@ -9,6 +9,6 @@ Require-Bundle: org.apache.commons.math3;bundle-version="[3.4.1,5.0.0)",
  org.knime.base;bundle-version="[4.0.0,6.0.0)",
  org.knime.core;bundle-version="[4.0.0,6.0.0)",
  org.knime.product;bundle-version="[4.0.0,6.0.0)"
-Bundle-RequiredExecutionEnvironment: JavaSE-17
+Bundle-RequiredExecutionEnvironment: JavaSE-21
 Bundle-ActivationPolicy: lazy
 Bundle-Activator: associates.ai.knime.dsp.nodes.DSPBundleActivator
